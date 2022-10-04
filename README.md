@@ -7,7 +7,7 @@ This task will test your skills for writting python scripts to create output fil
 These instructions will get you a copy of the project up and start working on it.
 
 # Clone the repo
-`git clone `
+`git clone https://github.com/Inclet/Python_test_task.git`
 
 # Task
 
