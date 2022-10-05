@@ -1,0 +1,22 @@
+{
+  "name": "python_test_task",
+  "version": "1.0.0",
+  "description": "This task will test your skills for writting python scripts to create output files and folders given a certain input files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inclet/Python_test_task.git"
+  },
+  "author": "manasseh bundi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inclet/Python_test_task/issues"
+  },
+  "homepage": "https://github.com/Inclet/Python_test_task#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

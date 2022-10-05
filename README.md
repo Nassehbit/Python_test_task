@@ -8,7 +8,9 @@ These instructions will get you a copy of the project up and start working on it
 
 # Clone the repo
 `git clone https://github.com/Inclet/Python_test_task.git`
-
+- Download packages: `npm install or yarn`
+- Run the app: `npm start` or `yarn start` or `node index.js`
+- Visit in browser: http://localhost:3000
 # Task
 
 - Write a python script inside `main.py` which is at the root of the folder that can be runned and generate the exact folder structure as it is in `output` folder.
